@@ -1,6 +1,6 @@
 # psm_project
 
-A new Flutter project.
+Final Year Project of Bachelor Degree of Software Engineering
 
 ## Getting Started
 
